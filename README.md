@@ -18,7 +18,8 @@
 <img width="611" height="37" alt="image" src="https://github.com/user-attachments/assets/03d49b96-c76b-47c3-9e28-0444b43e7697" />  
 
     
-Устанавка release2 в namespace app1 
+Устанавка release2 в namespace app1   
+
 <img width="559" height="193" alt="image" src="https://github.com/user-attachments/assets/8e1198a0-f671-4c54-a7da-4d8149d11fb5" />    
   
   
