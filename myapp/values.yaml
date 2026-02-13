@@ -1,0 +1,9 @@
+frontend:
+  image: nginx
+  tag: "1.25"
+  replicaCount: 1
+
+backend:
+  image: httpd
+  tag: "2.4"
+  replicaCount: 1
