@@ -8,7 +8,8 @@
 Создание namespace app1
 <img width="589" height="35" alt="image" src="https://github.com/user-attachments/assets/c1f1a649-e7e0-4f17-b0b6-565ef33568ea" />
 Устанавка первой версии (1.0.0) в namespace app1
-<img width="976" height="141" alt="image" src="https://github.com/user-attachments/assets/2e9e0fb4-7ce5-45b0-a072-11fc267fc419" />
+<img width="805" height="139" alt="image" src="https://github.com/user-attachments/assets/9dcbfb7d-fb6c-40b8-8e61-5deed2bf2ec1" />
+
 Создание namespace app2
 <img width="611" height="37" alt="image" src="https://github.com/user-attachments/assets/03d49b96-c76b-47c3-9e28-0444b43e7697" />
 
